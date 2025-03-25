@@ -12,7 +12,7 @@
 
 <!----- END GHOST DOCS HEADER ----->
 
-Workaround until close [@sentry/javascript #8291](https://github.com/getsentry/sentry-javascript/issues/8291).
+⚠️ **Deprecated:** This workaround is no longer required as of [`@sentry/javascript` v9.2.0](https://github.com/getsentry/sentry-javascript/releases/tag/9.2.0). See the [official SvelteKit Cloudflare guide](https://docs.sentry.io/platforms/javascript/guides/cloudflare/frameworks/sveltekit/).
 
 > [!NOTE]
 > If you are looking for other node-less adapters, see [sentry-sveltkeit-edge](https://github.com/jill64/sentry-sveltekit-edge).
